@@ -1,0 +1,11 @@
+C:\Users\student250\Desktop\MelnikovExzam\MelnikovExzam\bin\Debug\MelnikovExzam.exe.config
+C:\Users\student250\Desktop\MelnikovExzam\MelnikovExzam\bin\Debug\MelnikovExzam.exe
+C:\Users\student250\Desktop\MelnikovExzam\MelnikovExzam\bin\Debug\MelnikovExzam.pdb
+C:\Users\student250\Desktop\MelnikovExzam\MelnikovExzam\obj\Debug\MelnikovExzam.csproj.AssemblyReference.cache
+C:\Users\student250\Desktop\MelnikovExzam\MelnikovExzam\obj\Debug\MelnikovExzam.Form1.resources
+C:\Users\student250\Desktop\MelnikovExzam\MelnikovExzam\obj\Debug\MelnikovExzam.MainForm.resources
+C:\Users\student250\Desktop\MelnikovExzam\MelnikovExzam\obj\Debug\MelnikovExzam.Properties.Resources.resources
+C:\Users\student250\Desktop\MelnikovExzam\MelnikovExzam\obj\Debug\MelnikovExzam.csproj.GenerateResource.cache
+C:\Users\student250\Desktop\MelnikovExzam\MelnikovExzam\obj\Debug\MelnikovExzam.csproj.CoreCompileInputs.cache
+C:\Users\student250\Desktop\MelnikovExzam\MelnikovExzam\obj\Debug\MelnikovExzam.exe
+C:\Users\student250\Desktop\MelnikovExzam\MelnikovExzam\obj\Debug\MelnikovExzam.pdb
